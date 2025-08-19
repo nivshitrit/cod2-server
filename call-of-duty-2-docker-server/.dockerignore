@@ -1,0 +1,8 @@
+# discar anything to be send to docker buid context
+*
+
+# include server binaries
+!bin/cod2_lnxded*
+
+# include PunkBuster libraries
+!lib/pb/*
